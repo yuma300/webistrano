@@ -2,6 +2,7 @@ source "http://rubygems.org"
 
 gem 'bundler'
 gem "rails", "2.3.11"
+gem "net-ssh", "2.9.4"
 gem "mysql"
 gem "erubis"
 gem "rake"
