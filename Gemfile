@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem 'bundler'
+gem 'bundler', "1.0.9"
 gem "rails", "2.3.11"
 gem "net-ssh", "2.9.4"
 gem "mysql"
